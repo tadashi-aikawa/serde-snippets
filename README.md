@@ -6,3 +6,4 @@ serde-snippets
 ## Features
 
 - [normalize2ascii](./src/wide2ascii.rs)
+- [separator](./src/separator.rs)
